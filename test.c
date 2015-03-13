@@ -6,5 +6,6 @@ int main(void)
 	printf("This is a test file.\n");
 	printf("Add one line.\n");
 	printf("On new branch.\n");
+	printf("abc"\n");
 	return 1;
 }
